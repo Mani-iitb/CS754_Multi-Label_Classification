@@ -138,9 +138,15 @@ We use the following metrics to assess model performance:
 
 These results validate the efficacy of both hierarchical decomposition and deep label compression in large-scale multilabel classification.
 
+## Modified precision for Bibtex dataset(159 classes) using NMFGT
+
 ![Modified precision for Bibtex dataset(159 classes) using NMFGT](./images/NMFGT_Bibtex_m_pi.png)
 
+## Precision for Eurlex dataset(4993 classes) using He-NMFGT
+
 ![Precision for Eurlex dataset(4993 classes) using He-NMFGT](./images/HeNMFGT_Eurlex.png)
+
+## Precision for Eurlex dataset(4993 classes) using He-NMFGT and encoder
 
 ![Precision for Eurlex dataset(4993 classes) using He-NMFGT and encoder](./images/HeNMFGT_new_approach.png)
 
